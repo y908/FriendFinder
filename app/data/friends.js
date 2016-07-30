@@ -21,6 +21,38 @@ var friendArray = [
      4,
      1
    ]
+ },
+ {
+  "name":"Lady Mormont of Bear Island",
+  "photo":"http://i.imgur.com/RI27xcF.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+   ]
+ },
+ {
+  "name":"Lady Mormont of Bear Island",
+  "photo":"http://i.imgur.com/RI27xcF.jpg",
+  "scores":[
+     5,
+     1,
+     4,
+     4,
+     5,
+     1,
+     2,
+     5,
+     4,
+     1
+   ]
  }
 ];
 

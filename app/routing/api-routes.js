@@ -46,8 +46,9 @@ module.exports = function(app){
     }
 */
 
-    console.log('this works');
-
+    //console.log(req.body);
+    friendData.push(req.body);
+ 
 
   });
 
